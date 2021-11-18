@@ -1,0 +1,43 @@
+.f-col {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.App select {
+	margin-right: 10px;
+	padding: 10px 20px;
+}
+.App h1 {
+	padding: 20px;
+}
+.App button {
+	font-size: 1rem;
+	border-radius: 5px;
+	border: 2px solid #1f6c22;
+	background-color: rgb(234, 255, 177);
+	color: #1f6c22;
+	padding: 10px 20px;
+	cursor: pointer;
+}
+.App button:hover {
+	background-color: rgb(189, 207, 134);
+}
+.card-grid {
+	display: grid;
+	justify-content: center;
+	grid-gap: 10px;
+	margin: 0 auto;
+	padding: 30px 10px 10px;
+	max-width: 800px;
+}
+@media screen and (min-width: 400px) {
+	.card-grid {
+		padding: 30px 20px 10px;
+	}
+}
+@media screen and (min-width: 700px) {
+	.card-grid {
+		padding: 30px 40px 10px;
+	}
+}

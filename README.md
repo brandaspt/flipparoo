@@ -26,7 +26,7 @@ Memory Flip Card Game developed in React using Typescript
 
 - `npm install` to install dependecies
 - `npm start` to launch app
-- [Live Demo](flipparoo.surge.sh)
+- [Live Demo](https://flipparoo.surge.sh/)
 
 ## Features
 

@@ -9,35 +9,40 @@
 - [Setup](#setup)
 - [Features](#features)
 - [Status](#status)
+- [Todo](#todo)
 - [Contact](#contact)
 
 ## General info
 
-Solo Capstone Project undertaken during Strive School's Full Stack Developer Course.
-Social network for building a custom, interactive map based on your travels' photos
+Memory Flip Card Game developed in React using Typescript
 
 ## Technologies
 
-- NodeJS
-- ExpressJS
+- React
 - Typescript
-- npm
-- MongoDB (mongoose)
-- Cloudinary
-- Multer
+- CSS Grid
 
 ## Setup
 
-- [Source Code](https://github.com/brandaspt/journey-log-be/)
+- `npm install` to install dependecies
+- `npm start` to launch app
 
 ## Features
 
-- Google OAuth
-- Token Auth with http only cookies
+- 3 difficulty levels
+  - Easy (12 cards)
+  - Medium (16 cards)
+  - Hard (20 cards)
+- Score tracker (number of turns)
+- Randomly shuffled board for each game
 
 ## Status
 
 Project is: _in progress_.
+
+## Todo
+
+- Improve UI with animations
 
 ## Contact
 
